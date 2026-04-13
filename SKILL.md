@@ -45,6 +45,42 @@ description: 为开源项目/技术产品生成 B 站介绍视频的完整制作
 - 转场用"蒸馏/变换"特效连接两种风格
 - 最能体现"技术产品服务于创意内容"的概念
 
+### 风格 E：像素复古风
+- 8-bit / 16-bit 像素画风格，复古游戏机质感
+- 适合游戏相关工具、怀旧向项目、独立开发者作品
+- 色调：像素绿/琥珀色 CRT 屏幕色 + 低饱和复古色板
+- 关键词：pixel art, retro gaming, 8-bit, CRT scanlines, chiptune aesthetic, low-res charm
+
+### 风格 F：手绘白板风
+- 白色/米色背景 + 手绘线条 + 手写字体
+- 适合教程类、原理讲解类、算法可视化项目
+- 色调：白底 + 黑色线条 + 马克笔彩色标注（红/蓝/绿）
+- 关键词：whiteboard animation, hand-drawn sketch, marker pen, doodle style, educational illustration
+
+### 风格 G：赛博中国风
+- 传统水墨/国风元素 + 科技光效融合
+- 适合中文 NLP、国产开源项目、文化科技类产品
+- 色调：墨黑/宣纸白 + 朱红/金色 + 霓虹点缀
+- 关键词：Chinese ink painting, cyberpunk fusion, red lantern neon, calligraphy hologram, oriental tech
+
+### 风格 H：暗黑极简风
+- 纯黑背景 + 极简白色排版 + 微妙光影
+- 适合安全工具、终端工具、黑客/渗透类项目
+- 色调：纯黑 + 白色文字 + 绿色终端光标 + 偶尔红色警告
+- 关键词：dark minimal, terminal green, monospace typography, hacker aesthetic, matrix-inspired
+
+### 风格 I：3D 等距风
+- 等距视角 3D 插画，积木感模块化画面
+- 适合架构图展示、微服务、云原生、DevOps 类项目
+- 色调：柔和渐变（蓝紫/青橙）+ 轻投影 + 玻璃质感
+- 关键词：isometric 3D, soft gradient, glass morphism, modular blocks, cloud architecture illustration
+
+### 风格 J：纪录片电影风
+- 真实感画面 + 电影调色 + 宽银幕比例
+- 适合大型开源项目、社区故事、技术纪录片风格视频
+- 色调：电影级调色（青橙对比 / 低饱和胶片感）+ 浅景深
+- 关键词：cinematic, film grain, shallow depth of field, teal and orange grading, documentary style, anamorphic lens flare
+
 ## 文案写作原则
 
 参考 B 站高播放量开源项目视频（如 liliMozi 的 OpenHanako）：
